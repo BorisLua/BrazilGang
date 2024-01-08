@@ -8,7 +8,7 @@ MakeWindow({
     KeySystem = true,
     Title = "Bong Hub Key",
     Description = "Pegue a key para acessar o script!",
-    KeyLink = "https://killerztrash562.wixsite.com/boriskey/perguntas-frequentes",
+    KeyLink = "https://link-hub.net/1085373/key-bong-hub",
     Keys = {"BorisÉUmViado"},
     Notifi = {
       Notifications = true,
