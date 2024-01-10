@@ -1,12 +1,12 @@
 local UI = loadstring(game:HttpGet(("https://raw.githubusercontent.com/REDzHUB/LibraryV2/main/redzLib")))()
 MakeWindow({
   Hub = {
-    Title = "Nexware V1",
-    Animation = "Nexware On Top"
+    Title = "Bong Hub",
+    Animation = "Bong Hub 1.0"
   },
   Key = {
     KeySystem = true,
-    Title = "Nexware Key",
+    Title = "Bong Hub Key",
     Description = "Pegue a key para acessar o script!",
     KeyLink = "https://link-hub.net/1085373/key-bong-hub",
     Keys = {"BorisÉUmViado"},
