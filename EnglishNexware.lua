@@ -28,7 +28,7 @@ MinimizeButton({
   StrokeColor = Color3.fromRGB(20, 10, 10)
 })
 MakeNotifi({
-  Title = "Maded by boris",
+  Title = "made by boris",
   Text = "we changed the name from bong hub to nexware btw",
   Time = 15
 })
