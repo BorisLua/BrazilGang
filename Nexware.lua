@@ -63,3 +63,11 @@ AddButton(Main, {
     game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-109, 250, -150)
   end
 })
+local DC = MakeTab({Name = "Nosso Discord"})
+AddButton(DC, {
+  Name = "Clique aqui para nosso discord",
+  Callback = function()
+setclipboard("https://discord.com/invite/TdFRGRQAYj")
+print("https://discord.com/invite/TdFRGRQAYj")
+end
+})
